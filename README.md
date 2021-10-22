@@ -1,1 +1,1 @@
-# compute pi digits with colliding blocks (pygame library)
+# compute pi digits with colliding blocks (pygame)
